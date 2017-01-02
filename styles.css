@@ -13,3 +13,7 @@ body {
 .navbar-inverse .navbar-na>li>a {
 	color: white;
 }
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
