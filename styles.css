@@ -10,7 +10,10 @@ body {
 	background: #2c3e50;
 }
 
-.navbar-inverse .navbar-na>li>a {
+a {
+	color: white;
+}
+.navbar-inverse .navbar-nav>li>a {
 	color: white;
 }
 
