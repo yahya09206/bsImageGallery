@@ -1,7 +1,13 @@
+/* Styling for elements*/
 body {
 	padding: 70px;
 }
 
+a {
+	color: white;
+}
+
+/* Styling for classes */
 .jumbotron {
 	color: #2c3e50;
 	background: #ecf0f1
@@ -11,9 +17,6 @@ body {
 	background: #2c3e50;
 }
 
-a {
-	color: white;
-}
 .navbar-inverse .navbar-nav>li>a {
 	color: white;
 }
